@@ -1,6 +1,3 @@
-# Data-Analyst-Nanodegree---Udacity
-
-
 # [Udacity Data Analyst Nanodegree](https://www.udacity.com/course/data-analyst-nanodegree--nd002)
 Projects for my Udacity Data Analyst Nanodegree
 
